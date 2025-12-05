@@ -1,9 +1,9 @@
 ---
-title: "Alex — Senior WordPress Developer Portfolio"
+title: "Alexei Samarschi — Senior WordPress Developer Portfolio"
 layout: default
 ---
 
-# 👋 Alex — WordPress Developer  
+# 👋 Alexei Samarschi — Senior WordPress Developer  
 ### Specialized in WordPress Themes, Plugins & Gutenberg Development
 
 Welcome to my development portfolio. Here you’ll find a curated selection of commercial themes, plugins, and custom WordPress projects I’ve built or contributed to.
